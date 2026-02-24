@@ -15,18 +15,18 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats-hs2t.vercel.app/api?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-hs2t.vercel.app/api?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serdarsahinn05&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serdarsahinn05&theme=tokyonight&hide_border=false&v=2" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
 </div>
 
 
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-gamma-vert-91.vercel.app/?username=Serdarsahinn05&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-gamma-vert-91.vercel.app/?username=Serdarsahinn05&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&v=2" alt="GitHub Trophies" />
 </div>
 
 ### 🔝 Top Contributed Repo
