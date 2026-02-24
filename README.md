@@ -15,12 +15,14 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-hs2t.vercel.app/api?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serdarsahinn05&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
