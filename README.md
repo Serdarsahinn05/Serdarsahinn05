@@ -46,7 +46,7 @@
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-repository-contribution-stats-83rpbz1dr.vercel.app/api?username=Serdarsahinn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  <img src="https://github-repository-contribution-stat-mauve.vercel.app/api?username=Serdarsahinn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=2" alt="Top Contributed Repo"/>
 </div>
 
 ---
