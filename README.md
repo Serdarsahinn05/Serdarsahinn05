@@ -2,7 +2,7 @@
 👋 Hi, I’m @Serdarsahinn05<br>
 - 👀 I’m interested in software, computer and games :)<br>
 - 🌱 I’m currently learning software and I'm a Computer Engineer<br>
-- 💞️ I don't have a specific topic in mind for collaboration at the moment.<br>
+- 💞️ I'm currently working toward becoming a full-stack developer.<br>
 - 📫 How to reach me Serdarsahinn05@gmail.com or 👇🏻
 
 ## 🌐 Socials:
