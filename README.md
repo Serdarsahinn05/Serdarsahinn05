@@ -65,12 +65,15 @@
 <p align="center">
   <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
 </p>
+<!--
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Serdarsahinn05&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Serdarsahinn05&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
+-->
 
 ---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=serdarsahinn05&bg_color=ffffff00&color=60a5fa&line=3b82f6&point=93c5fd&area=true&hide_border=true" alt="Activity graph"/>
 </p>
@@ -88,12 +91,14 @@
   47+ plugin ve 300'den fazla
   seçenek var (isometric commit calendar, achievements, languages, WakaTime, Steam, Anilist, hatta 3D "GitHub Skyline"
   En kolay kurulum — ücretsiz paylaşılan instance (metrics.lecoq.io), tek satır:
--->
-### 📈 Metrics
+
+  ### 📈 Metrics
 
 <p align="center">
   <img src="https://metrics.lecoq.io/Serdarsahinn05?template=classic" alt="Metrics"/>
 </p>
+-->
+
 
 <!--
   Not: metrics.lecoq.io küçük, ücretsiz bir sunucu üzerinde çalışıyor — görseller
@@ -105,7 +110,7 @@
   kendi GitHub Actions workflow'unu kurman gerekiyor, bkz:
   https://github.com/lowlighter/metrics#-setup
 -->
----
+
 
 ### 🏙️ 3D Contribution Schedule
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
