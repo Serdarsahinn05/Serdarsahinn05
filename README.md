@@ -52,37 +52,18 @@
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,vercel,github,git,postgres,fastapi" alt="skills"/>
 </p>
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats-hs2t.vercel.app/api?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
-</p>
-
-<!--
-  6b) PİKSEL-ART İSTATİSTİK KARTI — pixel-profile (LuciNyan)
-  Aynı GitHub verilerini piksel-art / retro oyun stilinde gösteriyor.
-  Kendi Vercel deploy'un (pixel-profile-eta.vercel.app) çalışıyor.
-
-  Arkaplan olarak profil reponun assets/bg.png dosyasını kullanıyor
-  (raw.githubusercontent.com linki, url() içinde CSS-encode edilmiş halde).
-  Bu tam syntax dokümantasyonda örneklenmemişti, "CSS background değerlerinin
-  bir alt kümesi" deniyordu — yani beklediğin gibi görünmeyebilir. Denedikten
-  sonra istediğin gibi olmazsa şu alternatifleri deneyebiliriz:
-  - Düz renk: background=1a1b27 (önceki hali)
-  - screen_effect=true'yu kapatıp (screen_effect=false) görseli daha net görmek
-  - dithering=true ile görseli piksel-art paletine daha çok oturtmak
-
-  Diğer tasarım seçenekleri hâlâ geçerli:
-  - theme= : hazır tema (crt, journey, road_trip, fuji, monica, summer, lax)
-  - pixelate_avatar=false : avatarı pikselleştirmeden bırakır.
--->
 ### 🕹️ Pixel Art İstatistik Kartı
 
 <p align="center">
-  <img src="https://pixel-profile-eta.vercel.app/api/github-stats?username=Serdarsahinn05&screen_effect=true&theme=rainbow&background=url%28https%3A%2F%2Fraw.githubusercontent.com%2FSerdarsahinn05%2FSerdarsahinn05%2Fmain%2Fassets%2Fdragon.png%29" alt="Pixel art GitHub stats"/>
+  <img src="https://pixel-profile-eta.vercel.app/api/github-stats?username=Serdarsahinn05&screen_effect=true&theme=rainbow&background=url%28https%3A%2F%2Fraw.githubusercontent.com%2FSerdarsahinn05%2FSerdarsahinn05%2Fmain%2Fassets%2Fdragon.png%29%20center%2Fcover%20no-repeat" alt="Pixel art GitHub stats"/>
+  <br/><br/>
+  <img src="https://profile-summary-cards-two.vercel.app/api/cards/repos-per-language?username=Serdarsahinn05&theme=github_dark" alt="Repos per Language"/>
 </p>
+
+
+
+
+
 
 <!--
   7) GITHUB STREAK — kaç gün üst üste katkı yaptığını gösterir
@@ -167,8 +148,8 @@
 ## 🐍 Katkı Yılanı
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/main/dist/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/main/dist/github-snake.svg" />
 </picture>
 
 
