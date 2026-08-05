@@ -1,11 +1,8 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:135deg,45:19f0cc,100:3346d1&text=Serdar%20ŞAHİN&fontAlignY=37&desc=Full%20Stack%20Developer%20|%20Game%20Developer(WIP)%20|%20Backend%20Developer&fontColor=FFFFFF&descSize=22&fontAlign=50&fontSize=60" alt="header banner"/>
 </p>
 
-<!--
- https://readme-typing-svg.demolab.com/demo
--->
+<!-- https://readme-typing-svg.demolab.com/demo -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=520&size=30&duration=3000&pause=1000&color=04F7F4&center=true&vCenter=true&width=435&lines=Code.+Compose.+Create.;Console.log(%22May+the+source+be+with+you.%22);Ritmi+bozuk+ama+derleniyor..." alt="Typing SVG" /></a>
 </p>
@@ -23,21 +20,17 @@
 - 🎮 Passionate about diving deep into the game development world.
 - 📫 How to reach me: Serdarsahinn05@gmail.com or via the links below 👇
 
-<!--
-  SOSYAL MEDYA / İLETİŞİM ROZETLERİ — shields.io
--->
-
+<!-- SOSYAL MEDYA / İLETİŞİM ROZETLERİ — shields.io -->
 ## 🔗 Bağlantılar
 
 <p align="center">
-<a href="https://instagram.com/serdarsahin05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/serdarsahin05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/serdarsahinn05"><img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=1D4ED8" /></a>
   <a href="https://github.com/Serdarsahinn05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:Serdarsahinn05@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://serdarsahindev.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0F766E" />
   </a>
-
 </p>
 
 <!--
@@ -62,16 +55,16 @@
 
 ---
 
- ### 📈 Metrics
+### 📈 Metrics
 
 <p align="center">
   <img src="github-metrics.svg" alt="Metrics"/>
 </p>
+
 <!--
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=Serdarsahinn05&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   </p>
-
 -->
 
 ---
@@ -89,11 +82,8 @@
 
 ---
 
-
-
 ### 🏙️ 3D Contribution Schedule
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
-
 
 ## 🐍 Contribution Snake
 
@@ -102,9 +92,7 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/main/dist/github-snake.svg" />
 </picture>
 
-
 ---
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="footer"/>
