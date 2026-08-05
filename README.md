@@ -7,7 +7,7 @@
  https://readme-typing-svg.demolab.com/demo
 -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=480&size=18&pause=1000&color=09E2F7&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Code.+Compose.+Create.;%E3%85%A4console.log(%22May+the+source+be+with+you%22);%E3%85%A4%E3%85%A4%E3%85%A4Ritmi+bozuk+ama+derleniyor..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=480&size=22&pause=1000&color=09E2F7&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Code.+Compose.+Create.;%E3%85%A4console.log(%22May+the+source+be+with+you%22);%E3%85%A4%E3%85%A4%E3%85%A4Ritmi+bozuk+ama+derleniyor..." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
