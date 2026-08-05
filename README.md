@@ -57,7 +57,7 @@
 ### 🕹️ Pixel Art Stat Card
 
 <p align="center">
-  <img src="https://pixel-profile-eta.vercel.app/api/github-stats?username=Serdarsahinn05&screen_effect=true&theme=rainbow&background=url%28https%3A%2F%2Fraw.githubusercontent.com%2FSerdarsahinn05%2FSerdarsahinn05%2Fmain%2Fassets%2Fdragon.jpg%3Fv%3D2%29%20center%20%2F%20cover%20no-repeat" alt="Pixel art GitHub stats"/>
+  <img src="https://pixel-profile-eta.vercel.app/api/github-stats?username=Serdarsahinn05&screen_effect=true&theme=rainbow&background=url%28https%3A%2F%2Fraw.githubusercontent.com%2FSerdarsahinn05%2FSerdarsahinn05%2Fmain%2Fassets%2Fdragon.png%3Fv%3D2%29%20center%20%2F%20cover%20no-repeat" alt="Pixel art GitHub stats"/>
 </p>
 
 ---
