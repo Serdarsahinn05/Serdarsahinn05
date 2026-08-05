@@ -92,13 +92,14 @@
   seçenek var (isometric commit calendar, achievements, languages, WakaTime, Steam, Anilist, hatta 3D "GitHub Skyline"
   En kolay kurulum — ücretsiz paylaşılan instance (metrics.lecoq.io), tek satır:
 
-  ### 📈 Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Serdarsahinn05?template=classic" alt="Metrics"/>
-</p>
+ 
 -->
 
+ ### 📈 Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics"/>
+</p>
 
 <!--
   Not: metrics.lecoq.io küçük, ücretsiz bir sunucu üzerinde çalışıyor — görseller
