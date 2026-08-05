@@ -62,8 +62,10 @@
 
 ---
 
+ ### 📈 Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="Metrics"/>
 </p>
 <!--
   <p align="center">
@@ -86,31 +88,7 @@
 </p>
 
 ---
-<!--
-  METRICS (lowlighter/metrics) — HEPSİ BİR ARADA ALTERNATİF
-  47+ plugin ve 300'den fazla
-  seçenek var (isometric commit calendar, achievements, languages, WakaTime, Steam, Anilist, hatta 3D "GitHub Skyline"
-  En kolay kurulum — ücretsiz paylaşılan instance (metrics.lecoq.io), tek satır:
 
- 
--->
-
- ### 📈 Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics"/>
-</p>
-
-<!--
-  Not: metrics.lecoq.io küçük, ücretsiz bir sunucu üzerinde çalışıyor — görseller
-  1 saat cache'leniyor ve yoğunlukta yavaş/kararsız olabilir. Hangi plugin'leri
-  (isocalendar, achievements, wakatime, calendar, skyline...) göstermek
-  istediğini seçmek için https://metrics.lecoq.io adresine gidip görsel bir
-  arayüzden kendi URL'ini oluşturabilirsin — sonra o URL'i buraya yapıştırırsın.
-  Tüm özellikleri (bazı plugin'ler shared instance'ta kapalı) kullanmak istersen
-  kendi GitHub Actions workflow'unu kurman gerekiyor, bkz:
-  https://github.com/lowlighter/metrics#-setup
--->
 
 
 ### 🏙️ 3D Contribution Schedule
