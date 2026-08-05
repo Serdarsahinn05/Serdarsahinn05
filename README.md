@@ -26,7 +26,7 @@
 <!--
   SOSYAL MEDYA / İLETİŞİM ROZETLERİ — shields.io
 -->
----
+
 ## 🔗 Bağlantılar
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serdarsahinn05&theme=github-compact&hide_border=true" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serdarsahinn05&bg_color=ffffff00&color=60a5fa&line=3b82f6&point=93c5fd&area=true&hide_border=true" alt="Activity graph"/>
 </p>
 
 ---
