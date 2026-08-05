@@ -57,7 +57,7 @@
 <p align="center">
   <img src="https://pixel-profile-eta.vercel.app/api/github-stats?username=Serdarsahinn05&screen_effect=true&theme=rainbow&background=url%28https%3A%2F%2Fraw.githubusercontent.com%2FSerdarsahinn05%2FSerdarsahinn05%2Fmain%2Fassets%2Fdragon.png%29%20center%2Fcover%20no-repeat" alt="Pixel art GitHub stats"/>
   <br/><br/>
-  <img src="https://profile-summary-cards-two.vercel.app/api/cards/repos-per-language?username=Serdarsahinn05&theme=github_dark" alt="Repos per Language"/>
+  <img src="https://github-readme-stats-hs2t.vercel.app/api/top-langs/?username=Serdarsahinn05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
 </p>
 
 
