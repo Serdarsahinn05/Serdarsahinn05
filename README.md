@@ -166,41 +166,11 @@
 -->
 ## 🐍 Katkı Yılanı
 
-**Adım 1** — `.github/workflows/snake.yml` dosyasını oluştur:
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Serdarsahinn05
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Adım 2** — Workflow bir kere çalıştıktan sonra README'ye şunu ekle:
-```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/output/github-snake-dark.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/Serdarsahinn05/Serdarsahinn05/output/github-snake.svg" />
 </picture>
-```
+
 
 <!--
   11) PROFİL ZİYARETÇİ SAYACI — komarev/github-profile-views-counter
