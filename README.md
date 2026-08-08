@@ -24,7 +24,7 @@
 ## 🔗 Bağlantılar
 
 <p align="center">
-  <a href="https://instagram.com/serdarsahin05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/serdarsahinn05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/serdarsahinn05"><img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=1D4ED8" /></a>
   <a href="https://github.com/Serdarsahinn05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:Serdarsahinn05@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
