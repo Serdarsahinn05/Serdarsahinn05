@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/serdarsahinn05"><img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=1D4ED8" /></a>
   <a href="https://github.com/Serdarsahinn05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:Serdarsahinn05@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://serdarsahindev.vercel.app/">
+  <a href="https://serdarsahin.dev">
     <img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0F766E" />
   </a>
 </p>
